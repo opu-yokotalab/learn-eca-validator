@@ -1,0 +1,32 @@
+Vertex:
+start id1 id2 id3 id4 id5 id6 end 
+Edge:
+start id1
+Cost:
+CostEnd:
+id1 id2
+Cost:
+Node:!X Node:!Y 
+Node:X Node:!Y 
+CostEnd:
+id2 id3
+Cost:
+CostEnd:
+id3 id1
+Cost:
+CostEnd:
+id1 id4
+Cost:
+Node:X Node:Y 
+CostEnd:
+id4 id5
+Cost:
+Node:X 
+CostEnd:
+id4 id6
+Cost:
+Node:!X 
+CostEnd:
+id5 end
+Cost:
+CostEnd:

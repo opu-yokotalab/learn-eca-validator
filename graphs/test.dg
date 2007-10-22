@@ -1,0 +1,23 @@
+Vertex:
+start id1 id2 id3 id4 end 
+Edge:
+start id1
+Cost:
+CostEnd:
+id1 id2
+Cost:
+Test:test1,101
+CostEnd:
+id1 id3
+Cost:
+Test:!test1,101
+CostEnd:
+id2 id4
+Cost:
+CostEnd:
+id3 id4
+Cost:
+CostEnd:
+id4 end
+Cost:
+CostEnd:
